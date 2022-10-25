@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-4yt#3w-by+!b)dis48q58x^jx%obg8i6w2)qj=e=i#%um@vh&@
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'mapodesign.pythonanywhere.com']
 
 
 # Application definition
